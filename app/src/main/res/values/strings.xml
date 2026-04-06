@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Profile App</string>
+    <string name="detail_profil">Detail Profil</string>
+    <string name="label_nama">Nama Lengkap</string>
+    <string name="label_nim">Nomor Induk Mahasiswa</string>
+    <string name="label_prodi">Program Studi</string>
+    <string name="label_gender">Jenis Kelamin</string>
+    <string name="label_hobi">Hobi</string>
+    <string name="kembali">Kembali</string>
+</resources>
